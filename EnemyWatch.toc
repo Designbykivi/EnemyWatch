@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: EnemyWatch
+## Notes: Lists nearby opposing-faction players (click to target) and alerts you when one targets you.
+## Author: Designbykivi
+## Version: 1.0.0
+## SavedVariables: EnemyWatchDB
+## IconTexture: Interface\Icons\Ability_Hunter_SniperShot
+
+EnemyWatch.lua
